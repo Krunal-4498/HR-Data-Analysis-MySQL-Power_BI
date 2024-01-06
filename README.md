@@ -40,7 +40,7 @@ The MySQL database served as the primary data repository for various analyses. D
 10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
 
-12. ## Summary of Findings
+## Summary of Findings
  - There are more male employees
  - White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
  - The youngest employee is 20 years old and the oldest is 57 years old
