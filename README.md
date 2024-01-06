@@ -6,14 +6,15 @@ The HR Data Analysis: Employee Distribution project integrates MySQL for data st
 
 ![HR-Data-Analysis Report2](https://github.com/Krunal-4498/HR-Data-Analysis-MySQL-Power_BI/assets/134350505/567a670b-8ee8-4627-9a7c-e03a52f038c6)
 
+## Data Sources
 
-## Data Used
+The HR data for this project originates from an initial CSV file, which was subsequently imported into a MySQL database using MySQL Workbench. 
+The MySQL database served as the primary data repository for various analyses. Different CSV files were then extracted from the MySQL database using specific queries, each catering to a distinct aspect of the analysis. These extracted CSV files were utilized in Power BI for creating a comprehensive and dynamic visualization report.
 
-**Data** - HR Data with over 22000 rows from the year 2000 to 2020.
+### Initial CSV File
 
-**Data Cleaning & Analysis** - MySQL Workbench
-
-**Data Visualization** - PowerBI
+- **File Name:** `hr_data.csv`
+- **Format:** Comma-separated
 
 
 ## Questions Answered
