@@ -16,6 +16,12 @@ The MySQL database served as the primary data repository for various analyses. D
 - **File Name:** `hr_data.csv`
 - **Format:** Comma-separated
 
+## Tools Used
+###MySQL:
+   - Utilized for storing, managing, and querying the HR data. MySQL Workbench or an equivalent MySQL client was used for database management.
+###Power BI:
+   - Employed for creating dynamic and insightful visualizations based on the analyses performed on the MySQL data.
+
 
 ## Questions Answered
 
