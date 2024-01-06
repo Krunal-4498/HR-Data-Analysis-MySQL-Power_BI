@@ -2,9 +2,11 @@
 
 The HR Data Analysis: Employee Distribution project integrates MySQL for data storage, retrieval, cleaning and analyzing with Power BI for dynamic and insightful visualizations. This project explores multifaceted aspects of employee distribution within an organization from 2000 to 2020. It provides actionable insights to HR professionals and decision-makers, covering changes in employee count, gender distribution, remote and HQ work patterns, state-wise distribution, racial demographics, age group-wise gender distribution, department-wise gender distribution, department-wise termination rates, and age group-wise employee counts.
 
-![Hr_data_analysis_report](https://github.com/Krunal-4498/HR-Data-Analysis-MySQL-Power_BI/assets/134350505/89059513-52fb-4c72-b07b-277aa3b9962a)
 
-![Hr_data_analysis_report (2)](https://github.com/Krunal-4498/HR-Data-Analysis-MySQL-Power_BI/assets/134350505/3729d5b1-20f2-46a6-8346-0886bbd9656b)
+![HR_data_analysis](https://github.com/Krunal-4498/HR-Data-Analysis-MySQL-Power_BI/assets/134350505/b93aa8ab-20b4-4a89-8f79-535fa05e7f05)
+
+
+![HR_data_analysis (2)](https://github.com/Krunal-4498/HR-Data-Analysis-MySQL-Power_BI/assets/134350505/1adb83bf-6735-4c45-86cc-3ed6a5d38ef5)
 
 
 
